@@ -1,0 +1,8 @@
+C:\Users\zxsac\OneDrive\桌面\視窗程設\926\e94131114_practice_2_2\e94131114_practice_2_2\bin\Debug\e94131114_practice_2_2.exe.config
+C:\Users\zxsac\OneDrive\桌面\視窗程設\926\e94131114_practice_2_2\e94131114_practice_2_2\bin\Debug\e94131114_practice_2_2.exe
+C:\Users\zxsac\OneDrive\桌面\視窗程設\926\e94131114_practice_2_2\e94131114_practice_2_2\bin\Debug\e94131114_practice_2_2.pdb
+C:\Users\zxsac\OneDrive\桌面\視窗程設\926\e94131114_practice_2_2\e94131114_practice_2_2\obj\Debug\e94131114_practice_2_2.csproj.AssemblyReference.cache
+C:\Users\zxsac\OneDrive\桌面\視窗程設\926\e94131114_practice_2_2\e94131114_practice_2_2\obj\Debug\e94131114_practice_2_2.csproj.CoreCompileInputs.cache
+C:\Users\zxsac\OneDrive\桌面\視窗程設\926\e94131114_practice_2_2\e94131114_practice_2_2\obj\Debug\e94131114_practice_2_2.exe
+C:\Users\zxsac\OneDrive\桌面\視窗程設\926\e94131114_practice_2_2\e94131114_practice_2_2\obj\Debug\e94131114_practice_2_2.pdb
+C:\Users\zxsac\OneDrive\桌面\視窗程設\926\e94131114_practice_2_2\e94131114_practice_2_2\obj\Debug\e94131114_practice_2_2.exe.config
