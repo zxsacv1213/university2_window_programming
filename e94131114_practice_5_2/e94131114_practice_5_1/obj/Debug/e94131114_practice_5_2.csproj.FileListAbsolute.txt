@@ -1,0 +1,11 @@
+C:\Users\zxsac\OneDrive\桌面\視窗程設\1031\e94131114_practice_5_2\e94131114_practice_5_1\bin\Debug\e94131114_practice_5_1.exe.config
+C:\Users\zxsac\OneDrive\桌面\視窗程設\1031\e94131114_practice_5_2\e94131114_practice_5_1\bin\Debug\e94131114_practice_5_1.exe
+C:\Users\zxsac\OneDrive\桌面\視窗程設\1031\e94131114_practice_5_2\e94131114_practice_5_1\bin\Debug\e94131114_practice_5_1.pdb
+C:\Users\zxsac\OneDrive\桌面\視窗程設\1031\e94131114_practice_5_2\e94131114_practice_5_1\obj\Debug\e94131114_practice_5_2.csproj.AssemblyReference.cache
+C:\Users\zxsac\OneDrive\桌面\視窗程設\1031\e94131114_practice_5_2\e94131114_practice_5_1\obj\Debug\e94131114_practice_5_1.exe.config
+C:\Users\zxsac\OneDrive\桌面\視窗程設\1031\e94131114_practice_5_2\e94131114_practice_5_1\obj\Debug\e94131114_practice_5_1.Form1.resources
+C:\Users\zxsac\OneDrive\桌面\視窗程設\1031\e94131114_practice_5_2\e94131114_practice_5_1\obj\Debug\e94131114_practice_5_1.Properties.Resources.resources
+C:\Users\zxsac\OneDrive\桌面\視窗程設\1031\e94131114_practice_5_2\e94131114_practice_5_1\obj\Debug\e94131114_practice_5_2.csproj.GenerateResource.cache
+C:\Users\zxsac\OneDrive\桌面\視窗程設\1031\e94131114_practice_5_2\e94131114_practice_5_1\obj\Debug\e94131114_practice_5_2.csproj.CoreCompileInputs.cache
+C:\Users\zxsac\OneDrive\桌面\視窗程設\1031\e94131114_practice_5_2\e94131114_practice_5_1\obj\Debug\e94131114_practice_5_1.exe
+C:\Users\zxsac\OneDrive\桌面\視窗程設\1031\e94131114_practice_5_2\e94131114_practice_5_1\obj\Debug\e94131114_practice_5_1.pdb
